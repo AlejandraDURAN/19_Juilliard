@@ -1,0 +1,43 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+.cabeza{
+ 	font-family:Verdana;
+ 	font-size:30px;
+ 	padding-top: 20px;
+ }
+
+ .pb-1{
+ 	padding-bottom: 1%;
+ }
+ .background-blue{
+	background-color:#0B0B3B;
+
+}
+
+.button4{
+	background-color: #0B0B61;
+	height: 40px;
+	width: 320px;
+	border: 0;
+}
+
+.fondo4{
+	background-image: url("../img/shoes_!.jpg"); 
+	background-repeat: no-repeat;
+	background-position: right;
+}
+.contact{
+	font-size: 40px;
+	color: #0B0B3B;
+	font-family: Verdana;
+}
+
+.subtitulo{
+	font-weight: 900;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+.mb{
+	margin-bottom:-2%;
+}
+
